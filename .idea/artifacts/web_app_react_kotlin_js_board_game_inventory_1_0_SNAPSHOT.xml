@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="web-app-react-kotlin-js-board-game-inventory-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="web-app-react-kotlin-js-board-game-inventory-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="web-app-react-kotlin-js-board-game-inventory.main" />
+    </root>
+  </artifact>
+</component>
